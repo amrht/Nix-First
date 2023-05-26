@@ -4,4 +4,4 @@ I have included python3 and Git to my global environment by configuring the home
 
 This python code requests the wikipedia and scrape the text provided using `beautifulsoup4`.
 
-Also i have created a Default.nix file for my personal portofolio website and included nodejs and yarn in environment and started the react script in nix-shell, (here's the link)[https://github.com/amrht/amrht.github.io].
+Also i have created a Default.nix file for my personal portofolio website and included nodejs and yarn in environment and started the react script in nix-shell, [here's the link](https://github.com/amrht/amrht.github.io) .
