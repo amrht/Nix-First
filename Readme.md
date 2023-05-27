@@ -4,4 +4,6 @@ I have included python3 and Git to my global environment by configuring the home
 
 This python code requests the wikipedia and scrape the text provided using `beautifulsoup4`.
 
+I was hoping to use the `wikipedia` library available on Pypi to scrape wikipedia specifically, but it is not available on `nixpackages`, hence i build the library using `fetchpypi` and then used it in file `wiki.py` to scrape data from wikipedia.
+
 Also i have created a Default.nix file for my personal portofolio website and included nodejs and yarn in environment and started the react script in nix-shell, [here's the link](https://github.com/amrht/amrht.github.io) .
